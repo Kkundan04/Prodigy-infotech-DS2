@@ -30,5 +30,5 @@ To explore the given dataset, identify patterns, visualize data distributions, a
 
 ## Contact
 For any queries, feel free to connect:
-- <a>[Rohit Gupta ](https://www.linkedin.com/in/kundan-kaitikwar-93675b342?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)(LinkedIn)</a>
+- <a>[kundan kaitikwar](https://www.linkedin.com/in/kundan-kaitikwar-93675b342?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)(LinkedIn)</a>
 - Email: kundankaitikwar@gmail.com
